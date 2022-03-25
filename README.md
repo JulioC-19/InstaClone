@@ -33,8 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
--Managed to do an extra strech this time around.
--I bit challenging trying to style it exactly like instagram without knowing the actual specifictions so needed to improvise. 
+- Managed to do an extra strech this time around.
+- I bit challenging trying to style it exactly like instagram without knowing the actual specifictions so needed to improvise. 
 
 ## Open-source libraries used
 
