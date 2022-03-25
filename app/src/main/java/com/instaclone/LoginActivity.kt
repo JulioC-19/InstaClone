@@ -14,6 +14,9 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
+        // Logs current user out if the application is closed
+        ParseUser.logOut()
+
         // check if there is a user logged in
         // If there is, take them to MainActivity
         if(ParseUser.getCurrentUser()!=null){
@@ -47,9 +50,10 @@ class LoginActivity : AppCompatActivity() {
         user.signUpInBackground { e ->
             if (e == null) {
                 // User has successfully created a new account
-
                 // TODO: Navigate the user to the MainActivity
                 // TODO: Show a toast to indicate user successfully signed up for an account
+                Toast.makeText(this, "Signed Up Successful!", Toast.LENGTH_SHORT).show()
+                goToMainActivity()
             } else {
                 // TODO: Show a toast to tell user sign up was not successful
                 e.printStackTrace()
