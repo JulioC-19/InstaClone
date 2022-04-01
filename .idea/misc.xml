@@ -8,7 +8,16 @@
         <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/drawable/drawable_et_style.xml" value="0.2185" />
         <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/drawable/ic_launcher_background.xml" value="0.172" />
         <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/layout/activity_login.xml" value="0.26875" />
-        <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/layout/activity_main.xml" value="0.26875" />
+        <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/layout/fragment_compose.xml" value="0.26875" />
+        <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/layout/fragment_feed.xml" value="0.26875" />
+        <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/layout/item_post.xml" value="0.26875" />
+        <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/layout/post_actionbar.xml" value="0.26875" />
+        <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/layout/top_nav_bar.xml" value="0.26875" />
+        <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/menu/menu_bottom_itemposted.xml" value="0.26875" />
+        <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.26875" />
+        <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/menu/menu_bottom_posteditem.xml" value="0.26875" />
+        <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/menu/menu_top_navigation.xml" value="0.26875" />
         <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.172" />
         <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.172" />
         <entry key="..\:/Users/julio/AndroidStudioProjects/InstaClone/app/src/main/res/xml/fileprovider.xml" value="0.17760416666666667" />
